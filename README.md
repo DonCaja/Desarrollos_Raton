@@ -1,5 +1,5 @@
 
-# Desarrollos y aplicaciones Fundación Raton de Biblioteca
+# Desarrollos y aplicaciones Fundación Ratón de Biblioteca
 
 La Fundación Ratón de Biblioteca es una entidad sin ánimo de lucro fundada en 1984 en Medellín con el propósito de facilitar el acceso a los libros y a la lectura, y así contribuir a la formación de niños y jóvenes creativos, críticos, autónomos y comprometidos con la construcción de territorios de paz.
 
@@ -9,13 +9,14 @@ Actualmente cuenta con un Sistema de Bibliotecas Comunitarias conformado por 4 b
 
 Para consultar más información: https://www.ratondebiblioteca.org
 
-A tráves de este desarrollo se buscan automatizar una serie de procesos periodicos de la fundación Ratón de Biblioteca, de forma que este tiempo pueda dedicarse al cumplimiento del objetivo misional de la fundación. Si esta interesado en conocer más de este proceso, se quiere vincular de forma voluntaria a las actividades de la fundación o si los algritmos desarrollados aportarón para el desarrollo de proyectos con fines de lucro y desea contribuir de forma voluntaria al desarrollo de la fundación puede escribir al correo direccion@ratondebiblioteca.org
+A tráves de este desarrollo se buscan automatizar una serie de procesos periodicos de la fundación Ratón de Biblioteca, de forma que este tiempo pueda dedicarse al cumplimiento del objetivo misional de la fundación. 
+
+Si esta interesado en conocer más de este proceso, se quiere vincular de forma voluntaria a las actividades de la fundación o si los algritmos desarrollados aportarón para el desarrollo de proyectos con fines de lucro y desea contribuir de forma voluntaria a puede escribir al correo direccion@ratondebiblioteca.org
 
 Los autores agradecen comentarios sugerencias y recomendaciones al correo datos@ratondebiblioteca.org
 
 
 Jose Londoño y Daniel Cuartas
-
 GHIEM
 
 
