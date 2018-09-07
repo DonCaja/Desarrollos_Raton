@@ -1,5 +1,6 @@
 
 # Desarrollos y aplicaciones Fundación Ratón de Biblioteca
+(Para ver la versión en ingles le recomendamos utilizar https://www.deepl.com/en/translator como traductor)
 
 La Fundación Ratón de Biblioteca es una entidad sin ánimo de lucro fundada en 1984 en Medellín con el propósito de facilitar el acceso a los libros y a la lectura, y así contribuir a la formación de niños y jóvenes creativos, críticos, autónomos y comprometidos con la construcción de territorios de paz.
 
